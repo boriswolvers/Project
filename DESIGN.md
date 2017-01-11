@@ -10,9 +10,10 @@ The rough sketch of the user interface can be seen in the readme.md. When the us
 To save progress data I will need a database class. Data such as body stats can be saved as sharedpreference or maybe just as well in the database.
 Activities:
 * MainActivity
-* workout programs activity
-* exercises activity
-* calendar overview activity
-* settings activity (form)
+* Workout programs activity
+* Exercises activity
+* Statistics activity
+* Calendar overview activity
+* Settings activity (form)
 
 
