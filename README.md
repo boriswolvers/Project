@@ -10,15 +10,8 @@
     * Log progress
     * Nice user interface
     
-### Previous app idea
-At first I wanted to make an app that recognizes plants, flowers in particular. This app would enable users to make pictures of a specific flower and subsequently the app will tell the user which flower they are dealing with. As an additional feature of the app I wanted to list the possible stores (based on GPS) in the neighbourhood where the flower can be bought. 
-
-However...
-
-I could not go through with this app idea because the recognition of flowers was not ideal. To be clear, I didn't want to make a recognition software by myself (that would probably take several years) rather I would use some sort of flower api. After searching for some time on the interwebs I couldn't find a flower api which fulfilled my needs. So then I chose for Google/Yahoo image search, but unfortunately these search api's weren't reliable at all. The well known flowers were recognized by Google/Yahoo but only still when the images where very evident. Because I couldn't rely fully on the search api's I could not make this app due to the insecurities of the search results :(
-
-### New app idea: workout app
-Because I had to scrap my first idea I didn't really think through this new app idea. However a friend of mine is really into sports and I could make a well suited work out app. The idea is fairly simple but the app could be very well made if it's executed right and surely it can take a full month to build because extra feautures can be implemented along the way. Also, a workout app is well fitted at this time of the year because of the new year resolutions.
+### Workout app
+A friend of mine is really into sports and I could make a well suited work out app for her. The idea is fairly simple but the app could be very well made if it's executed right and surely it can take a full month to build because extra feautures can be implemented along the way. Also, a workout app is well fitted at this time of the year because of the new year resolutions.
 
 #### Main idea
 The workout app is a strength training based app, meaning the app will be centered about strength improvement. The app will contain mostly 'powerlifting-style' training programs, because strength rather than volume can be well tracked in logs. Also a powerlifting-style of training is probably the best way to get results.
@@ -58,3 +51,4 @@ Optional:
 * Find gyms in neighborhood (gps)
 * Upload programs with excel into the app
 * Let user make his/her own program
+* Timer in the app to track training time
