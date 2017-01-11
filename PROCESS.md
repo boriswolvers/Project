@@ -10,6 +10,6 @@ First day of the project I had to think about an application idea. This means of
 Second day I build the navigation drawer of the app with the right intents, thought about the design and made this process.md. Also made cardviewitems and a recyclerviewer in the mainactivity of the app.
 
 ### day 3 
-Start the day with a meeting with fellow team members. Proposed our ideas to eachother and gave constructive feedback. Then we worked on our design.md. 
+Start the day with a meeting with fellow team members. Proposed our ideas to eachother and gave constructive feedback. We also made a fantastic group selfie. Then we worked on our design.md. 
 Later in the day I filled the cardviews with the programs.
 
