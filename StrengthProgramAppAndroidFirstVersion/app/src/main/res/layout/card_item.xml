@@ -1,0 +1,53 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="6dp"
+    android:weightSum="1">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cardViewItem"
+        app:cardBackgroundColor="@color/colorPrimaryDark"
+        android:layout_width="match_parent"
+        android:layout_height="159dp"
+        android:layout_gravity="center"
+        app:useCompatPadding="true"
+        app:cardCornerRadius="6dp"
+        app:cardElevation ="5dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textviewWorkoutName"
+                android:text="Workout name"
+                android:paddingLeft="10dp"
+                android:textColor="@color/colorAccent"
+                android:textSize="20sp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginTop="19dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textviewDescription"
+                android:text="Description"
+                android:paddingLeft="10dp"
+                android:textColor="@color/colorAccent"
+                android:textSize="15sp"
+                android:layout_below="@+id/textviewWorkoutName"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginTop="12dp" />
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>
